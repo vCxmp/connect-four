@@ -1,8 +1,6 @@
 /*
  * Veer Desai
  * 1/27/2025
- * CSE 123
- * TA: Isayiah Lim
  */
 import java.util.*;
 /*
